@@ -4,6 +4,8 @@ Let's explore the top paying skills  and identify the most in demand skills in d
 
 Project Queries : [project_sql folder](/project_sql/)
 
+Csv_files: https://drive.google.com/drive/folders/1jEtexI9VITJjyKC7OKywZf1JtZyE8WJd?usp=drive_link
+
 # Background
 
 This project was inspired by both my interest in SQL and to practice my skills in SQL and the curiosity to explore and pinpoint the most in-demand skills in data analytics.
