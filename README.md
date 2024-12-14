@@ -14,7 +14,7 @@ N.B: This project can be easily altered to explore other data roles such as data
 
 ### The Questions i wanted to answer were:
 
-1. What are thr top paying data analyst jobs ?
+1. What are the top paying data analyst jobs ?
 2. What skills are required for these top paying jobs ?
 3. What skills are the most in demand for data analysts ?
 4. Which skills are associated with the highest salaries ?
